@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 #### My projects:
+1. Первый пункт нумерованного списка
+2. Второй пункт
+⋅⋅*Ненумерованный вложенный список.
 - React:
 --*[Shoe-store](https://github.com/DukeKunYura/shoe-store)
 --*[Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
