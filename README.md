@@ -2,10 +2,10 @@
 
 #### My projects:
 - React:
-  1. [Shoe-store](https://github.com/DukeKunYura/shoe-store)
-  2. [Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
-  3. [Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
-  4. [Realtime-Firebase](https://github.com/DukeKunYura/Realtime-Firebase-test)
+  + [Shoe-store](https://github.com/DukeKunYura/shoe-store)
+  + [Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
+  + [Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
+  + [Realtime-Firebase](https://github.com/DukeKunYura/Realtime-Firebase-test)
 - React-native:
   + [Medchest](https://github.com/DukeKunYura/medchest)
 - Svelte:
