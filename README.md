@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### My projects:
-- React:
+- React
 ..+[Shoe-store](https://github.com/DukeKunYura/shoe-store)
 ..+[Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
 ..+[Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
