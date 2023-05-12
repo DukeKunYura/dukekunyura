@@ -1,20 +1,17 @@
 ### Hi there 👋
 
 #### My projects:
-1. Первый пункт нумерованного списка
-2. Второй пункт
-⋅⋅*Ненумерованный вложенный список.
 - React:
   1. [Shoe-store](https://github.com/DukeKunYura/shoe-store)
   2. [Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
---*[Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
---*[Realtime-Firebase](https://github.com/DukeKunYura/Realtime-Firebase-test)
+  3. [Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
+  4. [Realtime-Firebase](https://github.com/DukeKunYura/Realtime-Firebase-test)
 - React-native:
---+[Medchest](https://github.com/DukeKunYura/medchest)
+  + [Medchest](https://github.com/DukeKunYura/medchest)
 - Svelte:
---+[Supabase-on-svelte](https://github.com/DukeKunYura/supabase-on-svelte)
+  + [Supabase-on-svelte](https://github.com/DukeKunYura/supabase-on-svelte)
 - Java (Spring)
---+[Car-registration](https://github.com/DukeKunYura/car-registration)
+  + [Car-registration](https://github.com/DukeKunYura/car-registration)
 
 #### [Resume](https://docs.google.com/document/d/10pmx0uzSJIh7g_0i4EY0EPldpKrb-FgEjGOQbz3mLRE/edit?usp=sharing)
 
