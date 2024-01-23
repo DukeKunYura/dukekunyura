@@ -4,6 +4,7 @@
 - React + Node.js:
   + [Node-jwt-react](https://github.com/DukeKunYura/node-jwt-react)
 - React:
+  + [Monorepo-for-microfrontends](https://github.com/DukeKunYura/monorepo-microfrontends-module-federation)
   + [Front-for-car-registration](https://github.com/DukeKunYura/front-for-car-registration)
   + [Front-for-car-registration v.2](https://github.com/DukeKunYura/alternative-front-for-car-registration)
   + [Shoe-store](https://github.com/DukeKunYura/shoe-store)
